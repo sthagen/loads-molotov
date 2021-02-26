@@ -1,2 +1,2 @@
-aiohttp==2.3.10
+aiohttp==3.7.4
 aiomeasures==0.5.14
